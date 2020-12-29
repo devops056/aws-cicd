@@ -21,3 +21,5 @@ post_build:
 artifacts:
   files:
     - '**/*'
+	  - imagedefinitions.json
+    - appspec.yml
