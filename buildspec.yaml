@@ -20,6 +20,4 @@ post_build:
     - docker push 770197195015.dkr.ecr.us-east-1.amazonaws.com/finalnode:latest
 artifacts:
   files:
-    - '**/*'
-    - imagedefinitions.json
-    - appspec.yml
+    - imageDetail.json
