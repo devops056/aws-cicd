@@ -23,6 +23,5 @@ artifacts:
     - '**/*'
   base-directory: base_location
   name: finalnode-build-artifact
-  discard-paths: no 
  
   
