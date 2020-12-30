@@ -1,3 +1,6 @@
-{
-"ImageURI": "770197195015.dkr.ecr.us-east-1.amazonaws.com/finalnode:latest"
-}
+[
+  {
+    "name": "finalnode",
+    "ImageURI": "770197195015.dkr.ecr.us-east-1.amazonaws.com/finalnode:latest"
+  }
+]
