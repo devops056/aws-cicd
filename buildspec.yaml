@@ -19,9 +19,6 @@ post_build:
     - echo push latest Docker images to ECR...
     - docker push 770197195015.dkr.ecr.us-east-1.amazonaws.com/finalnode:latest
 artifacts:
-  files:
-    - '**/*'
-  base-directory: base_location
-  name: finalnode-build-artifact
+
  
   
