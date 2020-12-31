@@ -21,3 +21,4 @@ post_build:
 artifacts:
   files:
     - imageDetail.json
+    - imagedefinitions.json
